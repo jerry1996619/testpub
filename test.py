@@ -1,4 +1,4 @@
 import os
 function cap
 
-function
+function main
