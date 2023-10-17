@@ -1,5 +1,5 @@
 import os
-function cap
+function cap:
 
 
 function main
